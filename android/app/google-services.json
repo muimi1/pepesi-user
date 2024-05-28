@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "1004377477518",
+    "firebase_url": "https://pepesi-f59db-default-rtdb.firebaseio.com",
+    "project_id": "pepesi-f59db",
+    "storage_bucket": "pepesi-f59db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004377477518:android:9da5c131c7cf31d7d0d4df",
+        "android_client_info": {
+          "package_name": "com.muimi.pepesi1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYh0J50821px8dXqJ8Y8RKnAWWyHwSVsU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004377477518:android:ed5de7ee7062242fd0d4df",
+        "android_client_info": {
+          "package_name": "com.muimi.pepesirider"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYh0J50821px8dXqJ8Y8RKnAWWyHwSVsU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
